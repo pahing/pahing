@@ -1,0 +1,10 @@
+
+tasks:
+  - init: |
+      echo 'TODO: build project'
+    command: |
+      echo 'TODO: start app'
+vscode:
+  extensions:
+    - github.vscode-pull-request-github
+    - github.github-vscode-theme
