@@ -8,3 +8,5 @@ vscode:
   extensions:
     - github.vscode-pull-request-github
     - github.github-vscode-theme
+    - editorconfig.editorconfig
+    - eamodio.gitlens
